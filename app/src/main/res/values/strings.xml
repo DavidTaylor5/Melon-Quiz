@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Melon Quiz</string>
+    <string name="ambrosia_melon">Ambrosia Melon</string>
+    <string name="apollo_melon">Apollo Melon</string>
+    <string name="autumn_melon">Autumn Sweet Melon</string>
+    <string name="bailan_melon">Bailan Melon</string>
+    <string name="banana_melon">Banana Melon</string>
+    <string name="bitter_melon">Bitter Melon</string>
+    <string name="cantaloupe">Cantaloupe</string>
+    <string name="casaba_melon">Casaba Melon</string>
+    <string name="crane_melon">Crane Melon</string>
+    <string name="cucamelon_melon">Cucamelon</string>
+    <string name="gac_melon">Gac Melon</string>
+    <string name="galia_melon">Galia Melon</string>
+    <string name="honey_globe_melon">Honey Globe Melon</string>
+    <string name="honeydew_melon">Honeydew Melon</string>
+    <string name="santa_claus_melon">Santa Claus Melon</string>
+    <string name="correct_answer">Well done! You have mastered the melon!</string>
+    <string name="wrong_answer">You know nothing of this world!</string>
+</resources>
